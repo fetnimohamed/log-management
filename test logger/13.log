@@ -1,0 +1,5 @@
+{"message":"info","level":"info","service":"user-service","timestamp":"2021-08-13T13:52:49.754Z"}
+{"message":"warn","level":"warn","service":"user-service","timestamp":"2021-08-13T13:52:49.761Z"}
+{"message":"error","level":"error","service":"user-service","timestamp":"2021-08-13T13:52:49.762Z"}
+{"level":"error","service":"user-service","timestamp":"2021-08-13T13:52:49.763Z","message":"error with stack","stack":"Error: error with stack\n    at Object.<anonymous> (C:\\Users\\IOWAVES\\Desktop\\fetni mohamed\\pouch\\test logger\\index.js:6:14)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"debug","level":"debug","service":"user-service","timestamp":"2021-08-13T13:52:49.774Z"}
